@@ -1,0 +1,57 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+/*
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: rgb(128, 128, 128);
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    background-color: #f5f5f5;
+    margin-left: 150px;
+    margin-right: 150px;
+    height: 100vh;
+    padding: 25px;
+}
+
+.navBar {
+    height: 50px;
+    border: 1px solid black;
+}
+
+.title {
+    height: 30px;
+    font-size: 26px;
+    font-weight: lighter;
+    border: 1px solid black;
+}
+
+.searchBarContainer {
+    height: 150px;
+    border: 1px solid black;
+}
+
+.mainContainer {
+    display: flex;
+}
+
+.pokeSettings {
+
+}
+
+.pokeContainer {
+
+}
+
+.pokemonCard {
+
+}*/
